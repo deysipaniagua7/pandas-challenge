@@ -1,6 +1,7 @@
 # pandas-challenge
 
 This is the repository that holds my Module 4 Pandas-Challenge.
+
 -"PyCitySchools_starter"-contains my code
 -The "Resources" folder contains 2 csv files: "schools_complete" and "students_complete" which were the files given to us to work off
 
