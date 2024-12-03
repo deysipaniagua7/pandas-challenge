@@ -1,7 +1,5 @@
 # pandas-challenge
 
-For ReadMe Text File:
-
 This is the repository that holds my Module 4 Pandas-Challenge.
 
 Module Overview: In this challenge, we were asked to analyze a city’s school district data to assist the school board/mayor in choosing the best decisions based on future school budgets and priorities. The following summaries were generated to display the data stratified by District, School, Highest- and Lowest-Performing School Percentage of Overall Passing, Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type.
